@@ -47,10 +47,10 @@ Model Performance Metrics:
 It also displays a bar chart showing feature importance.
 
 
-## 📬 Contact
+## Contact
 For questions or collaboration:
 **Alen K Aji**  
-📧 alen@example.com  
+📧 alenkaji12@gmail.com.com  
 📍 MACE Kothamangalam, Kerala
 
 
