@@ -50,8 +50,9 @@ It also displays a bar chart showing feature importance.
 ## Contact
 For questions or collaboration:
 **Alen K Aji**  
-📧 alenkaji12@gmail.com.com  
+📧 alenkaji12@gmail.com. 
 📍 MACE Kothamangalam, Kerala
 
+---
 
 ## ⭐️ Star the repo if you find this helpful!
